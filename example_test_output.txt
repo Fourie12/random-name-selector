@@ -1,0 +1,22 @@
+============================================================
+DISTRIBUTION STATISTICS
+============================================================
+Total runs: 200
+Successful runs: 200
+
+Name                           Count      Percentage
+------------------------------------------------------------
+John                            56         28.00%
+Stacey                          50         25.00%
+Svenn                           48         24.00%
+Earl                            46         23.00%
+------------------------------------------------------------
+
+Expected percentage per name (equal distribution): 25.00%
+
+Deviation from expected:
+John                            +3.00%
+Stacey                          +0.00%
+Svenn                           -1.00%
+Earl                            -2.00%
+
